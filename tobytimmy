@@ -1,1 +1,8 @@
-
+git config -- global user.name "Timmyleyin"
+git config -- global user.email "tobilobajoan@gmail.com"
+git comfig -- list
+git config -- global alias.i init
+mkdir project1
+cd project1
+git i 
+git status 
